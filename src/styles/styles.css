@@ -1,3 +1,7 @@
-body {
-  color: blue;
+.drum-pad {
+  border: 1px solid black;
+  border-radius: 50px;
+  text-align: center;
+  width: 2em;
+  height: 2em;
 }

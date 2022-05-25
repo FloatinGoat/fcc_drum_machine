@@ -1,39 +1,39 @@
 export const drumPads = [
   {
     letter: 'Q',
-    sound: 'clap'
+    soundDescription: 'clap'
   },
   {
     letter: 'W',
-    sound: 'hihat'
+    soundDescription: 'hihat'
   },
   {
     letter: 'E',
-    sound: 'kick'
+    soundDescription: 'kick'
   },
   {
     letter: 'A',
-    sound: 'openhat'
+    soundDescription: 'openhat'
   },
   {
     letter: 'S',
-    sound: 'boom'
+    soundDescription: 'boom'
   },
   {
     letter: 'D',
-    sound: 'ride'
+    soundDescription: 'ride'
   },
   {
     letter: 'Z',
-    sound: 'snare'
+    soundDescription: 'snare'
   },
   {
     letter: 'X',
-    sound: 'tom'
+    soundDescription: 'tom'
   },
   {
     letter: 'C',
-    sound: 'tink'
+    soundDescription: 'tink'
   },
 ]
 
