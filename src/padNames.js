@@ -1,4 +1,4 @@
-export const drumPads = [
+export const padNames = [
   {
     letter: 'Q',
     soundDescription: 'clap'
@@ -37,4 +37,4 @@ export const drumPads = [
   },
 ]
 
-export default drumPads
+export default padNames
